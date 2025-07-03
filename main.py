@@ -32,7 +32,6 @@ async def help(update: Update, context):
         "fonet - фонетический разбор\n"
         "morph - морфологический разбор\n"
         "syntax - синтаксический разбор\n"
-        "fonet - фонетический разбор"
     )
 
 
